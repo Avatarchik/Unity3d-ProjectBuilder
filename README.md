@@ -8,3 +8,8 @@ and specify the platform, and additional build options you would like.
 
 each sub project that was setup in the configuration ,will have its own button.
 this will be clicked and the build will proceed to dedicated folders inside a Builds folder in Application.DataPath 
+
+DEPENDENCIES:
+ -- UnityEngine.dll
+ -- UnityEditor.dll
+ -- Zenject package.
